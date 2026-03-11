@@ -1,0 +1,21 @@
+.container {
+  height: 700px;
+  width: 600px;
+  border-radius: 50px;
+  background-color: white;
+  box-shadow: 10px 10px 0 0 black;
+  padding: 50px;
+}
+
+.imageContainer img {
+  width: 500px;
+  height: 480px;
+  border-radius: 60px;
+  object-fit: cover;
+  background-color: antiquewhite;
+  margin-bottom: 25px;
+}
+
+h3 {
+  font-family: inter;
+}

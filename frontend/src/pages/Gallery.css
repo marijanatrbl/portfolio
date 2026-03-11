@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+.carousel {
+  margin: 30px auto 50px auto;
+  width: 90%;
+  height: 735px;
+  /* border: 5px solid red; */
+  display: flex;
+  /* flex-direction: row; */
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+  gap: 3em;
+  width: max-content;
+  height: 100%;
+  animation: spin 40s linear infinite;
+  padding-right: 3em;
+}
+
+@keyframes spin {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 600px;
+}

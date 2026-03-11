@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+.projectTitle {
+  line-height: normal;
+  font-size: 40px;
+  margin: 15px 0;
+}
+
+.projectInfo {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width: 1250px;
+  padding: 0 0px;
+}
+
+.projectDate {
+  font-style: italic;
+}
+
+.left {
+  width: 700px;
+}
+
+.verticalLine {
+  width: 4px;
+  border-radius: 5px;
+  height: 210px;
+  background-color: black;
+}
+
+.projectImg img {
+  width: 390px;
+  height: 250px;
+  border-radius: 40px;
+  object-fit: cover;
+}
+
+.proj {
+  display: flex;
+  width: 1200px;
+  height: 290;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}

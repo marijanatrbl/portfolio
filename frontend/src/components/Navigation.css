@@ -1,0 +1,43 @@
+.nav {
+  font-size: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* background-color: antiquewhite; */
+  width: 780px;
+  height: 50px;
+  position: fixed;
+  justify-items: center;
+  align-content: center;
+  cursor: pointer;
+  top: 20;
+  z-index: 99;
+  margin-top: -50px;
+  cursor: pointer;
+}
+
+.links {
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 13px;
+  align-content: center;
+  backdrop-filter: blur(10px);
+}
+
+.links a {
+  margin: 0 60px;
+}
+
+/* a:hover {
+  color: black;
+  text-decoration: underline;
+} */
+
+.logo img {
+  height: 50px;
+  width: auto;
+}
+
+.logo {
+  margin: 0 30px;
+}
