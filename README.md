@@ -48,16 +48,22 @@ Backend
 
 ## Project Structure
 ```
-portfolio/
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   └── assets/
-└── backend/
-    ├── portfolio/
-    ├── api/
-    └── manage.py
+portfolio/my-portfolio/
+├── backend/
+│   ├── api/
+│   ├── config/
+│   ├── media/
+│   ├── projects/
+│   ├── venv/
+│   ├── db.sqlite3
+│   └── manage.py
+└── frontend/
+    ├── node_modules/
+    ├── public/
+    └── src/
+        ├── assets/
+        ├── components/
+        └── pages/
 ```
 ## How to run locally
 
