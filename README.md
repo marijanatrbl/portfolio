@@ -8,12 +8,18 @@ Personal Portfolio Website is a full-stack web application built with React and 
 
 ## Screenshots
 Homepage
+![Homepage Screenshot](https://github.com/marijanatrbl/portfolio/blob/7f1804d8918c3cabf54a7217001f9c94e2545186/1.png)
 
-About me (Homepage)
+About me section (Homepage)
+![About me section](https://github.com/marijanatrbl/portfolio/blob/7f1804d8918c3cabf54a7217001f9c94e2545186/2.png)
 
 Projects (Frontend and backend)
+![Procets on frontend](https://github.com/marijanatrbl/portfolio/blob/7f1804d8918c3cabf54a7217001f9c94e2545186/3.png)
+![Projects on backend](https://github.com/marijanatrbl/portfolio/blob/7f1804d8918c3cabf54a7217001f9c94e2545186/4.png)
 
 Gallery (Frontend and backend)
+![Gallery on frontend](https://github.com/marijanatrbl/portfolio/blob/7f1804d8918c3cabf54a7217001f9c94e2545186/5.png)
+![Gallery on backend](https://github.com/marijanatrbl/portfolio/blob/7f1804d8918c3cabf54a7217001f9c94e2545186/6.png)
 
 
 ## Features
