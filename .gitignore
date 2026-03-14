@@ -1,0 +1,26 @@
+# Frontend
+node_modules/
+dist/
+build/
+.vite/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Django
+media/
+staticfiles/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
